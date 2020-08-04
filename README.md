@@ -2,3 +2,9 @@
 This repository contain project files about reverse-engineered SK2 SK3 kinetics from electrophysiological recordings of mouse spinal motoneurons.
 
 the files assist in running the simulations published in the modeling study entitled <b><i>“Reverse-engineering SK2 and SK3 currents from the electrophysiological recordings of mouse spinal motoneurons”</i></b> by Mohamed H. Mousa, Christiana S.I. Draper, Amr A. Mahrous, and Sherif M. Elbasiouny.
+
+
+
+[![DOI](https://zenodo.org/badge/285072673.svg)](https://zenodo.org/badge/latestdoi/285072673)
+
+
