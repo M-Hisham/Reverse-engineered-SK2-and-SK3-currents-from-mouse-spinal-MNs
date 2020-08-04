@@ -6,7 +6,7 @@ the files assist in running the simulations published in the modeling study enti
 ## Platform:
 * Files run on [NEURON simulator](https://neuron.yale.edu/neuron/what_is_neuron), after compilation
 
-## what is included in the mod file:
+## What is included in the mod file:
 dederminstic ion channels in Hodgkin-Huxley form + calcium dynamics in the motoneurons soma
 ### Channels:
 * SK2 (Calcium activated potassium channel isoform K<sub>Ca</sub>2.2)
